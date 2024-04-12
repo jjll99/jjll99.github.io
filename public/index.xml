@@ -1,0 +1,26 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Dr X New Hugo Site</title>
+        <link>http://localhost:1313/</link>
+        <description>Dr X cool site</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 11 Apr 2024 23:05:03 &#43;0800</lastBuildDate>
+            <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>First_post</title>
+    <link>http://localhost:1313/posts/first_post/</link>
+    <pubDate>Thu, 11 Apr 2024 23:05:03 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>http://localhost:1313/posts/first_post/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>My First Post</title>
+    <link>http://localhost:1313/posts/my-first-post/</link>
+    <pubDate>Thu, 11 Apr 2024 20:26:42 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>http://localhost:1313/posts/my-first-post/</guid>
+    <description><![CDATA[title: &ldquo;valine评论系统配置&rdquo; subtitle: &quot;&quot; date: 2022-08-22T11:15:06+08:00
+author: &ldquo;Kingpo&rdquo; authorLink: &quot;&quot; authorEmail: &quot;&quot; description: &quot;&quot; keywords: &quot;&quot; comment: true #评论开启 weight: 0]]></description>
+</item>
+</channel>
+</rss>
