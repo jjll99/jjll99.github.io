@@ -1,0 +1,27 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Dr X New Hugo Site'
+theme = 'LoveIt'
+
+
+[params.page.comment.valine]
+  appId = "r8ss38xVT4E6l3DYjGofYR2l-MdYXbMMI"  #参看上面步骤
+  appKey = "zVsz0A0F2u0gyRdsdtdIUSPv"  #参看上面步骤
+  avatar = "monsterid" #评论者gravatar头像，参看全球头像那篇文章
+  enable = true
+  enableQQ = true  
+  highlight = true
+  lang = "zh-CN"  
+  meta = ['nick', 'mail', 'link']  #评论昵称，邮件，链接三个模块
+  pageSize = 10 
+  placeholder = "欢迎交流！匿名昵称留空即可。" #评论区提醒文字
+  recordIP = true  #是否记录ip
+  serverURLs = "https://r8ss38xv.api.lncldglobal.com"  #参看上面步骤
+  visitor = false  #是否开启访问量统计
+  #  emoji 数据文件名称，默认是 "google.yml"
+  # ("apple.yml", "google.yml", "facebook.yml", "twitter.yml")
+  # 位于 "themes/FixIt/assets/data/emoji/" 目录
+  # 可以在你的项目下相同路径存放你自己的数据文件：
+  # "assets/data/emoji/"
+  commentCount = true #评论统计
+  emoji = ""  # emoji表情
